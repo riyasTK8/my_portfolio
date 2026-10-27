@@ -5,7 +5,7 @@ import { motion, useReducedMotion } from "framer-motion";
 
 const revealTransition = {
   duration: 0.7,
-  ease: [0.23, 1, 0.32, 1],
+  ease: [0.23, 1, 0.32, 1] as const,
 };
 
 const fadeUp = {
