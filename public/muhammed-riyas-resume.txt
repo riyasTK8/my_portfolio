@@ -1,0 +1,28 @@
+MUHAMMED RIYAS
+Full Stack Developer
+
+Email: mriyastk8@gmail.com
+GitHub: github.com/riyasTK8
+LinkedIn: linkedin.com/in/riyas-k-i
+
+PROFILE
+Full Stack Developer with experience in building practical web applications, APIs, databases, deployment workflows, and business tools.
+
+SKILLS
+- JavaScript, TypeScript
+- React.js, Next.js, Redux Toolkit
+- Node.js, Express.js, REST APIs
+- MongoDB, PostgreSQL, Prisma, Redis, Supabase
+- AWS EC2, AWS S3, Cloudflare, Nginx, R2
+- Git, GitHub, Postman, Stripe, Gemini APIs
+
+PROJECTS
+- XeroCare: ERP & CRM platform for printer industry operations
+- Letsellr: Full-stack property management platform
+- InstaViz: AI-powered data visualization application
+
+EXPERIENCE
+- Built end-to-end products across frontend, backend, auth, deployment, and infrastructure.
+- Worked on dashboards, workflows, business systems, and product delivery.
+
+Contact for opportunities: mriyastk8@gmail.com
